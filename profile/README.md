@@ -17,3 +17,9 @@
 	<img src="https://gh-stats.deoxy.dev/api?username=zhenzi0322&theme=highcontrast&custom_title=图像工具" width="49%" height="50%" />
 </a>
 </center>
+
+<center>
+<a href="https://github.com/zhenzi0322-microsoft/PulseBox">
+	<img src="https://gh-stats.deoxy.dev/api?username=zhenzi0322&theme=highcontrast&custom_title=服务器监控" width="49%" height="50%" />
+</a>
+</center>
