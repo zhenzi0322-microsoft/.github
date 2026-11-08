@@ -14,7 +14,7 @@
 	<img src="https://gh-stats.deoxy.dev/api?username=zhenzi0322&theme=highcontrast&custom_title=简易" width="49%" height="50%" />
 </a>
 <a href="https://github.com/zhenzi0322-microsoft/Tuzo">
-	<img src="https://gh-stats.deoxy.dev/api?username=zhenzi0322&theme=highcontrast&custom_title=图像工具" width="49%" height="50%" />
+	<img src="https://gh-stats.deoxy.dev/api?username=zhenzi0322&custom_title=图像工具" width="49%" height="50%" />
 </a>
 </center>
 
